@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourseTalk</string>
+    <string name="course_list">Course List</string>
+    <string name="write_your_own_review">Write Your Own Review</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign out</string>
+    <string name="textview">TextView</string>
+    <string name="effective_public_speaking">Effective public speaking</string>
+    <string name="critical_analysis_of_literature_and_cinema">Critical analysis of literature and cinema</string>
+    <string name="dynamics_of_social_change">Dynamics of social change</string>
+    <string name="eco_criticism">Eco criticism</string>
+    <string name="modern_political_concepts">Modern political concepts</string>
+    <string name="mpc_description">The course will introduce students to some salient political concepts equipping them with an analytical toolkit to understand political phenomena. It is also hoped that through the course students will become aware of how ‘political’ ideas have developed and have shaped the world we live in.</string>
+    <string name="eco_description">The course is intended to familiarize the learners with ecocritical concepts and show them how these could be effective critical tools to understand our environment and our relationship with it. The course gives a humanistic perspective on how ecology is a new paradigm in cultural texts and films.</string>
+    <string name="dysoc_description">To inculcate in students the sociological imagination towards social issues that would help them understand the issues not in isolation but in totality.It helps to develop critical understanding, analytical skills and social sensibility.</string>
+    <string name="effps_description">The objective of the course is to improve the students’ speaking skills in various professional contexts and enable them to develop the art of public speaking. The course is practice-oriented and is designed to develop the necessary skills through actual practice.</string>
+    <string name="calci_description">The course attempts to inculcate in students a critical insight required to interpret a work of literature and cinema. To enable the students to imbibe such perception and critical judgment, the subtle nuances of such works will be taught extensively.</string>
+</resources>
